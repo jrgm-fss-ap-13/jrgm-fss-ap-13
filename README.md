@@ -44,7 +44,7 @@ Desarrollador Full Stack, enfocado en crear aplicaciones web y móviles eficient
 ## 📫 Contacto
 
 - 💼 LinkedIn: https://www.linkedin.com/in/jorge-fuentes-silva
-- 🌐 Portfolio: *(opcional)*
+- 🌐 Portfolio: En construcción...
 
 ---
 
